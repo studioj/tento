@@ -5,3 +5,6 @@ requires = ["setuptools"]
 name = "tento"
 version = "0.1.0"
 description = "A very basic stub Python package named tento deployed to protect a package released to an internal company pypi index"
+long_description = "A very basic stub Python package named tento deployed to protect a package released to an internal company pypi index"
+readme = "README.md"
+requires-python = ">=3.6"
